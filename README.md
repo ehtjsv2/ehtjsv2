@@ -1,10 +1,11 @@
 ### Hi there 👋
-
+<div>
 <h3 align="center"><b>🎓기술 스택</b></h3>
 </br>
 <p align="center">
 
 </p>
+</div>
 <!--
 **ehtjsv2/ehtjsv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
