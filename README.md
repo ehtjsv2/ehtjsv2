@@ -1,11 +1,8 @@
 <div>
-### Hi there 👋
-</div>
-<div>
 <h3 align="center"><b>🎓기술 스택</b></h3>
 </br>
 <p align="center">
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 </p>
 </div>
 <!--
