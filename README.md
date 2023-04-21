@@ -12,7 +12,7 @@
  </p>
 </div>
 <div>
-  
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ehtjsv2)](https://solved.ac/ehtjsv2)
 </div>
 <!--
 **ehtjsv2/ehtjsv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
