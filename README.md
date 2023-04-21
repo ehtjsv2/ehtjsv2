@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 <p align="center">
-  ![Jone's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtjsv2&show_icons=true&theme=dark)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehtjsv2)](https://solved.ac/ehtjsv2/)
  </p>
 </div>
