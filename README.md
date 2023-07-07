@@ -21,13 +21,13 @@
 ## :memo: Ongoing Project
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 공부링크 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1| 클론당근 | JAVA | Spring Boot | 백엔드 공부를 위한 당근어플리케이션 클론 프로젝트입니다. | AOS | private | [spring공부](https://just-date-658.notion.site/Spring-ef635e734cc143b49e5fa5f160e785ad?pvs=4)
+|1| 클론당근 | JAVA | Spring Boot | 백엔드 공부를 위한 당근어플리케이션 클론 프로젝트입니다. | AOS | private | [spring공부](https://just-date-658.notion.site/Spring-ef635e734cc143b49e5fa5f160e785ad?pvs=4) |
+|2| 인턴 | JAVA | Spring Boot | 2023하계 현장실습(07~08) | web | private | private |
 
 ## :green_book: Reading Book
 |번호| 제목|저자| 분류 | 이미지 | 진도 | 공부링크 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1|자바 ORM 표준 JPA 프로그래밍|김영한|JAVA|![JPA](https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBikRXsqteoGn7DkXgFmJBc-ymt-HuBvjGMDuPPyhYZ4pWkISenTwl5x-umkIC-yhqIvZJu90dJM4&usqp=CAc)| 17% | [JPA공부](https://just-date-658.notion.site/JPA-143580539b004f97b5fca9ba072bb8bf?pvs=4 ) 
-|2|안드로이드 클린 코드 설계 : 아키텍처를 알아야 앱 개발이 보인다 |옥수환|JAVA|![image](https://image.yes24.com/goods/89958199/XL)| 4% | [노션링크](https://just-date-658.notion.site/4499a93370244b1dabf840b712cae393?pvs=4) 
 
 <!--
 **ehtjsv2/ehtjsv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
