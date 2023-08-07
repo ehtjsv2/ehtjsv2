@@ -25,7 +25,7 @@
 |번호| 제목 | 백엔드언어 | 프레임워크 | 프로젝트 설명| 클라이언트 | 깃헙 | 공부링크 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1| 클론당근 | JAVA | Spring Boot | 백엔드 공부를 위한 당근어플리케이션 클론 프로젝트입니다. | AOS | private | [spring공부](https://just-date-658.notion.site/Spring-ef635e734cc143b49e5fa5f160e785ad?pvs=4) |
-|2| 인턴 | JAVA | Spring Boot | 2023하계 현장실습(07~08) | web | private | private |
+|2| 인턴 | JAVA | Spring Boot | 매출 리포트 서비스 | web | private | private |
 
 ## :green_book: Reading Book
 |번호| 제목|저자| 분류 | 이미지 | 진도 | 공부링크 |
