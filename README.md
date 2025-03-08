@@ -1,5 +1,15 @@
 ## 👋 Hi!
 
+### [skill]
+Java, Junit5, Spring Boot, JPA Hibernate, MySQL  
+
+### **[activity]**
+[우아한테크 유튜브 '단위테스트' 주제 발표](https://www.youtube.com/watch?v=R7spoJFfQ7U)
+  
+### **[history]**
+우아한테크코스 백엔드 6th (2024.02 ~ 2024.11)  
+경북대학교 컴퓨터학부 졸업 (2022.03 ~ 2024.02)  
+경남대학교 컴퓨터학부 중퇴 (2017.03 ~ 2022.02)
 
 
 <!--
